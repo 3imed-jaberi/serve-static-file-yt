@@ -24,6 +24,6 @@ Serve Static File using Raw Node.js 🧙🏼‍♂️.
 
 [mime_url]: https://developer.mozilla.org/ar/docs/Web/HTTP/Basics_of_HTTP/MIME_types
 
-[youtube-link]: Wait 
+[youtube-link]: https://youtu.be/yry5XM3Njec 
 
 [license-link]: LICENSE
