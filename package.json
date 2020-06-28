@@ -1,12 +1,37 @@
 {
   "name": "serve-static-file",
-  "version": "0.1.0",
-  "description": "Init 🚧 ..",
+  "version": "1.0.0",
+  "description": "Serve Static File using Raw Node.js 🧙🏼‍♂️",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prestart": "echo WAIT ⏳ ...... && clear",
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "Imed Jaberi (https://www.3imed-jaberi.com/)",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3imed-jaberi/serve-static-file.git"
+  },
+  "keywords": [
+    "raw-nodejs",
+    "http-server",
+    "send-file",
+    "serve",
+    "static",
+    "file",
+    "folder",
+    "directory"
+  ],
+  "author": {
+    "name": "imed jaberi",
+    "email": "3imed.jaberi@gmail.com",
+    "url": "https://www.3imed-jaberi.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "bugs": {
+    "url": "https://github.com/3imed-jaberi/serve-static-file/issues"
+  },
+  "homepage": "https://github.com/3imed-jaberi/serve-static-file#readme"
 }
