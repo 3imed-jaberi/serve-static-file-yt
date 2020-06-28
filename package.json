@@ -1,0 +1,12 @@
+{
+  "name": "serve-static-file",
+  "version": "0.1.0",
+  "description": "Init 🚧 ..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Imed Jaberi (https://www.3imed-jaberi.com/)",
+  "license": "MIT"
+}
