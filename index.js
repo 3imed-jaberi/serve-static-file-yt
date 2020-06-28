@@ -1,3 +1,13 @@
+// _________ About _________ //
+console.info(
+  '\x1b[36m%s\x1b[0m',
+  `
+    Serve static files through Raw Node.js 🚀 ..
+            Made with ❤️  by Imed Jaberi
+           <https://www.3imed-jaberi.com>       
+  `
+);
+
 // __________ Pure Node.js Modules __________ //
 const fs = require('fs');
 const path = require('path');
